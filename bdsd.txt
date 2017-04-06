@@ -1,0 +1,1 @@
+c:\bds\ds\bin\dsremote.bat CliCmd DEBUG_ON
